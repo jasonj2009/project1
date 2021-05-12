@@ -1,0 +1,1 @@
+print("jenins ile")
